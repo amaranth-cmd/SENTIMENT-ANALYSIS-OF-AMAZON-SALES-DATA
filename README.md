@@ -23,9 +23,9 @@ Through a bar graph, the dataset was. discovered to be balanced, containing appr
 # Methodology / NLP Pipeline
 
 1. Data Loading
-Training and testing datasets are loaded separately from CSV files. The links for these datasets are below:
+Training and testing datasets are loaded separately from CSV files. The link for the datasets is below:
 
-
+https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 And the predefined train/test split is preserved to avoid data leakage.
 
